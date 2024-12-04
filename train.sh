@@ -1,0 +1,1 @@
+python main_lawformer.py --small_sample

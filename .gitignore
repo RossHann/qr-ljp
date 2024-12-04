@@ -1,0 +1,6 @@
+data/
+__pycache__/
+log/
+log_lawformer/
+pretrained_model/
+pts/
